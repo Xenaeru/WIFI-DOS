@@ -118,7 +118,7 @@ git clone https://github.com/Xenaeru/Wifi-dos.git
 cd Wifi-dos
 
 # Make the script executable (optional)
-chmod +x main.py
+chmod +x wifidos.py
 ```
 
 ---
@@ -127,7 +127,7 @@ chmod +x main.py
 
 ```bash
 # Run with sudo privileges
-sudo python3 main.py
+sudo python3 wifidos.py
 ```
 
 ### Workflow
