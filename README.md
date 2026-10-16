@@ -89,7 +89,7 @@
 
 | Requirement | Description |
 |-------------|-------------|
-| **OS** | Linux (Kali Linux recommended) |
+| **OS** | Kali Linux , ArchLinux , Ubuntu (not tried yet) |
 | **WiFi Adapter** | Must support Monitor Mode & Packet Injection |
 | **Privileges** | Root/sudo access required |
 
